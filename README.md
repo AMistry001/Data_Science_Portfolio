@@ -14,5 +14,5 @@ Hi, everyone! This repository contains a multitude of data science and machine l
 >> This project covers many fundamental data cleaning and data preprocessing techniques that are necessary in preparing a raw dataset before it can be used as input for a machine learning algorithm.
 
 ## Data Visualization:
-> ### [Creating an Interactive Choropleth Map of Crime in San Fransisco](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Visualization%20with%20Folium%20-%20SF%20Crime/SF%20Crime%20Folium%20Map.ipynb):
+> ### [Creating an Interactive Choropleth Map of Crime in San Fransisco](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Visualization%20with%20Folium%20-%20SF%20Crime/SF%20Crime%20Choropleth%20Map.ipynb):
 >> I did this project as part of Coursera's IBM Data Science Professional Certificate. It covers the creation of an interactive choropleth map of crime in San Fransisco using Python's Folium package, a powerful tool for geospatial visualizations. 
