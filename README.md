@@ -1,5 +1,5 @@
 # My Data Science Portfolio
-Hi, everyone! This repository contains a multitude of data science and machine learning projects that I have completed. Many of these projects are related to data science courses and certificates I've completed in the past, mixed in with a few I completed just for fun. These projects are all created using Jupyter Notebooks, and are written entirely in Python 3. These projects are meant to be beginner-friendly and I've included the datasets I've used wherever possible in order for you to be able to follow along.
+Hi, everyone! This repository contains a multitude of data science and machine learning projects that I have completed. Many of these projects are related to data science courses and certificates I've completed in the past, mixed in with a few I completed just for fun. These projects are all created using Jupyter Notebooks, and are written entirely in Python 3. They're meant to be beginner-friendly and I've included the datasets I've used wherever possible in order for you to be able to follow along.
 
 ## Support Vector Machines (SVM):
 > ### [Analyzing Seattle Accident Severity Data](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Accident%20Severity%20Data%20in%20Seattle%20(2014-2020).ipynb):
