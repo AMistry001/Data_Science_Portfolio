@@ -16,3 +16,7 @@ Hi, everyone! This repository contains a multitude of data science and machine l
 ## Data Visualization:
 > ### [Creating an Interactive Choropleth Map of Crime in San Fransisco](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Visualization%20with%20Folium%20-%20SF%20Crime/SF%20Crime%20Choropleth%20Map.ipynb):
 >> I did this project as part of Coursera's IBM Data Science Professional Certificate. It covers the creation of an interactive choropleth map of crime in San Fransisco using Python's Folium package, a powerful tool for geospatial visualizations. 
+
+## Linear Regression:
+> ### [Analyzing Honey Production Numbers Across America](https://github.com/AMistry001/Data_Science_Portfolio/tree/main/Honey%20Production%20Project):
+>> This is a basic introduction to linear regression with SciKitLearn's "Linear_Model" module. Using a dataset sourced from Codecademy, it covers the creation of scatter plots and fitting a regression line to set of data points to uncover trends.
