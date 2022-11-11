@@ -3,7 +3,7 @@ Hi, everyone! This repository contains a multitude of data science and machine l
 
 ## Support Vector Machines (SVM):
 > ### [Analyzing Seattle Accident Severity Data](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Accident%20Severity%20Data%20in%20Seattle%20(2014-2020).ipynb):
-> > This is my capstone project for the 9-part IBM Data Science Professional Certificate track curated by Coursera. It centers around analyzing and predicting the severity of a vehicular accident in Seattle based on information such as time of day, date, road conditions, light conditions, weather conditions, and location. The project uses SVMs to parse and analyze the data, and also covers data cleaning, label-encoding, and feature selection. My full report of the project and findings can be found [here](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Seattle%20Accident%20Severity%20Data.pdf).
+> > This is my capstone project for the 9-part IBM Data Science Professional Certificate track curated by Coursera. It centers around analyzing and predicting the severity of vehicular accidents in Seattle, Washington based on information such as time of day, date, road conditions, light conditions, weather conditions, and location. The project uses SVMs to parse and analyze the data, and also covers data cleaning, label-encoding, and feature selection. My full report of the project and findings can be found [here](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Seattle%20Accident%20Severity%20Data.pdf).
    
 ## K-Nearest-Neighbors (KNN):
 > ### [Breast Cancer Classifier](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Breast%20Cancer%20KNN%20Classifier/K-Nearest-Neighbors%20Breast%20Cancer%20Classifier.ipynb):
@@ -17,6 +17,6 @@ Hi, everyone! This repository contains a multitude of data science and machine l
 > ### [Creating an Interactive Choropleth Map of Crime in San Francisco](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Visualization%20with%20Folium%20-%20SF%20Crime/SF%20Crime%20Choropleth%20Map.ipynb):
 >> I did this project as part of Coursera's IBM Data Science Professional Certificate. It covers the creation of an interactive choropleth map of crime in San Francisco using Python's Folium package, a powerful tool for geospatial visualizations. 
 
-## Linear Regression:
+## Linear Regression/ANOVA:
 > ### [Analyzing Honey Production Numbers Across America](https://github.com/AMistry001/Data_Science_Portfolio/tree/main/Honey%20Production%20Project):
 >> This is a basic introduction to linear regression with SciKitLearn's "Linear_Model" module. Using a dataset sourced from Codecademy, it covers the creation of scatter plots and fitting a regression line to set of data points to uncover trends.
