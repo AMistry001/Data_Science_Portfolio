@@ -13,11 +13,11 @@ Hi, everyone! This repository contains a multitude of data science and machine l
 ### [Creating an Interactive Choropleth Map of Crime in San Francisco](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Visualization%20with%20Folium%20-%20SF%20Crime/SF%20Crime%20Choropleth%20Map.ipynb):
 >> I did this project as part of Coursera's IBM Data Science Professional Certificate. It covers the creation of an interactive choropleth map of crime in San Francisco using Python's Folium package, a powerful tool for geospatial visualizations. 
 
-### [Breast Cancer K-Nearest Neighbors Classifier](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Breast%20Cancer%20KNN%20Classifier/K-Nearest-Neighbors%20Breast%20Cancer%20Classifier.ipynb):
-> This is a small project that I did as part of Codecademy's Data Science track. It uses a SciKitLearn dataset and a reiterating KNN machine learning algorithm to determine an optimal k-value that yields the highest accuracy in determining which tumors are benign and which are malignant and therefore indicative of breast cancer.
-
 ### [NASA Satellite Telemetry Analysis](https://github.com/AMistry001/Data_Science_Portfolio/tree/main/NASA%20Satellite%20Telemetry%20Analysis):
 > This is my code submission for the PCC-Caltech Lunar Trailblazer internship, a development program for a small satellite to be used for mapping water bodies on the surface of the Moon. The project is an analysis of NASA telemetry data of an unnamed satellite in Low Earth Orbit. Using various observations such as the temperatures of the various satellite components (such as its solar panels, antennae, and boost converters), as well as battery information, I try to determine the period and speed of the satellite's orbit around Earth. This project covers data preprocessing, data cleaning, dataframe parsing, and visualization using the MatPlotLib Python package.
+
+### [Breast Cancer K-Nearest Neighbors Classifier](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Breast%20Cancer%20KNN%20Classifier/K-Nearest-Neighbors%20Breast%20Cancer%20Classifier.ipynb):
+> This is a small project that I did as part of Codecademy's Data Science track. It uses a SciKitLearn dataset and a reiterating KNN machine learning algorithm to determine an optimal k-value that yields the highest accuracy in determining which tumors are benign and which are malignant and therefore indicative of breast cancer.
 
 ### [Data Cleaning with a Craigslist Automobile Dataset](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Cleaning%20with%20Craigslist%20Cars/Data%20Cleaning%20with%20a%20Craigslist%20Automobile%20Database.ipynb):
 > This project covers many fundamental data cleaning and data preprocessing techniques that are necessary in preparing a raw dataset before it can be used as input for a machine learning algorithm.
