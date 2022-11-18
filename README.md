@@ -1,7 +1,7 @@
 # My Data Science Portfolio
 Hi, everyone! This repository contains a multitude of data science and machine learning projects that I have completed. Many of these projects are related to data science/statistics courses and certificates I've completed in the past (either as part of my undergrad at UCLA, or through online courses), mixed in with a few I completed just for fun. These projects are written either using R or Python 3. They're meant to be beginner-friendly and I've included the datasets I've used wherever possible in order for you to be able to follow along. More information on these certificates can be found on my [LinkedIn](https://www.linkedin.com/in/aryan-mistry/).
 
-### [Analyzing Seattle Accident Severity Data](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Accident%20Severity%20Data%20in%20Seattle%20(2014-2020).ipynb):
+### [Analyzing Seattle Accident Severity Data with Support Vector Machines](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Accident%20Severity%20Data%20in%20Seattle%20(2014-2020).ipynb):
 > This is my capstone project for the 9-part IBM Data Science Professional Certificate track curated by Coursera. It centers around analyzing and predicting the severity of vehicular accidents in Seattle, Washington based on information such as time of day, date, road conditions, light conditions, weather conditions, and location. The project uses SVMs to parse and analyze the data, and also covers data cleaning, label-encoding, and feature selection. My full report of the project and findings can be found [here](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Analyzing%20Seattle%20Accident%20Severity%20Data/Analyzing%20Seattle%20Accident%20Severity%20Data.pdf).
 
 ### [STATS 101A: Predicting the Price of Automobiles Using Multiple Linear Regression](https://github.com/AMistry001/Data_Science_Portfolio/tree/main/STATS%20101A:%20Predicting%20the%20Price%20of%20Automobiles%20in%20the%20U.S.%20Market):
@@ -18,6 +18,9 @@ Hi, everyone! This repository contains a multitude of data science and machine l
 
 ### [Breast Cancer K-Nearest Neighbors Classifier](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Breast%20Cancer%20KNN%20Classifier/K-Nearest-Neighbors%20Breast%20Cancer%20Classifier.ipynb):
 > This is a small project that I did as part of Codecademy's Data Science track. It uses a SciKitLearn dataset and a reiterating KNN machine learning algorithm to determine an optimal k-value that yields the highest accuracy in determining which tumors are benign and which are malignant and therefore indicative of breast cancer.
+
+### [STATS 21: Uncovering Trends with a Ford Automobile Dataset](https://github.com/AMistry001/Data_Science_Portfolio/tree/main/Uncovering%20Trends%20with%20a%20%20Ford%20Automobile%20Dataset):
+> This was my segment of the group final project of my Stats 21 course. It covers extensive data analysis with MatPlotLib on a dataset consisting of new and used Ford vehicles selling in the European market in order to determine what factors contribute to vehicle longevity.
 
 ### [Data Cleaning with a Craigslist Automobile Dataset](https://github.com/AMistry001/Data_Science_Portfolio/blob/main/Data%20Cleaning%20with%20Craigslist%20Cars/Data%20Cleaning%20with%20a%20Craigslist%20Automobile%20Database.ipynb):
 > This project covers many fundamental data cleaning and data preprocessing techniques that are necessary in preparing a raw dataset before it can be used as input for a machine learning algorithm.
